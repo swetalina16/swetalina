@@ -1,2 +1,0 @@
-# swetalina
-Created with CodeSandbox
